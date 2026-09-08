@@ -1,0 +1,315 @@
+{
+    "image": "processed_images/processed_product.jpg",
+    "ocr": [
+        {
+            "text": "ZEROTrams Pat",
+            "confidence": 0.8769,
+            "box": [
+                474,
+                32,
+                635,
+                54
+            ]
+        },
+        {
+            "text": "Creative Visualization",
+            "confidence": 0.9952,
+            "box": [
+                894,
+                33,
+                1092,
+                64
+            ]
+        },
+        {
+            "text": "BISCUITS NET WEIGHT",
+            "confidence": 0.9999,
+            "box": [
+                634,
+                73,
+                899,
+                107
+            ]
+        },
+        {
+            "text": "39 g",
+            "confidence": 0.8991,
+            "box": [
+                944,
+                75,
+                1012,
+                112
+            ]
+        },
+        {
+            "text": "cuit/Design",
+            "confidence": 0.9474,
+            "box": [
+                218,
+                114,
+                341,
+                150
+            ]
+        },
+        {
+            "text": "MRP",
+            "confidence": 0.9966,
+            "box": [
+                558,
+                115,
+                633,
+                154
+            ]
+        },
+        {
+            "text": "ustration",
+            "confidence": 0.9372,
+            "box": [
+                221,
+                146,
+                316,
+                175
+            ]
+        },
+        {
+            "text": "(INCL, OF",
+            "confidence": 0.9859,
+            "box": [
+                533,
+                149,
+                628,
+                189
+            ]
+        },
+        {
+            "text": "27072",
+            "confidence": 0.9683,
+            "box": [
+                217,
+                164,
+                311,
+                204
+            ]
+        },
+        {
+            "text": "OTHER",
+            "confidence": 1.0,
+            "box": [
+                438,
+                169,
+                521,
+                198
+            ]
+        },
+        {
+            "text": "ALL TAXES)",
+            "confidence": 0.9895,
+            "box": [
+                521,
+                182,
+                622,
+                228
+            ]
+        },
+        {
+            "text": "E IN A COOL, HYGENC AND DRY PLACE.",
+            "confidence": 0.7978,
+            "box": [
+                208,
+                211,
+                509,
+                247
+            ]
+        },
+        {
+            "text": "10.00",
+            "confidence": 1.0,
+            "box": [
+                764,
+                206,
+                899,
+                257
+            ]
+        },
+        {
+            "text": "INSFER CONTENTS TO A CLEAN AIRTIGHT",
+            "confidence": 0.995,
+            "box": [
+                205,
+                237,
+                490,
+                271
+            ]
+        },
+        {
+            "text": "Rs. 0.26 per g",
+            "confidence": 0.9575,
+            "box": [
+                760,
+                252,
+                1095,
+                317
+            ]
+        },
+        {
+            "text": "ITAINER ONCE OPENED. THE CHANGE IN",
+            "confidence": 0.9715,
+            "box": [
+                202,
+                262,
+                488,
+                295
+            ]
+        },
+        {
+            "text": "PKD.",
+            "confidence": 0.9998,
+            "box": [
+                568,
+                271,
+                618,
+                313
+            ]
+        },
+        {
+            "text": "MPERATURE AND HUMIDITY MAY CAUSE A",
+            "confidence": 0.9897,
+            "box": [
+                197,
+                286,
+                494,
+                320
+            ]
+        },
+        {
+            "text": "MITISH LAYER ON PRODUCT, WITHOUT",
+            "confidence": 0.9588,
+            "box": [
+                191,
+                310,
+                462,
+                344
+            ]
+        },
+        {
+            "text": "12/10/23",
+            "confidence": 0.9999,
+            "box": [
+                767,
+                305,
+                969,
+                355
+            ]
+        },
+        {
+            "text": "FFECTING ITS FITNESS FOR CONSUMPTION.",
+            "confidence": 0.9867,
+            "box": [
+                187,
+                335,
+                491,
+                368
+            ]
+        },
+        {
+            "text": "USE BY.",
+            "confidence": 0.9628,
+            "box": [
+                547,
+                359,
+                617,
+                397
+            ]
+        },
+        {
+            "text": "11/03/24",
+            "confidence": 1.0,
+            "box": [
+                767,
+                351,
+                970,
+                401
+            ]
+        },
+        {
+            "text": "ZARKETED BY: BRITANNIA INDUSTRIES LTD",
+            "confidence": 0.9919,
+            "box": [
+                179,
+                372,
+                506,
+                413
+            ]
+        },
+        {
+            "text": "5/1 A HUNGERFORD STREET, KOLKATA-700017",
+            "confidence": 0.9704,
+            "box": [
+                171,
+                405,
+                539,
+                447
+            ]
+        },
+        {
+            "text": "A102395",
+            "confidence": 0.9999,
+            "box": [
+                760,
+                405,
+                971,
+                451
+            ]
+        },
+        {
+            "text": "EST BENGAL (A WADIA Enterprise)",
+            "confidence": 0.983,
+            "box": [
+                193,
+                436,
+                457,
+                475
+            ]
+        },
+        {
+            "text": "LOT No.",
+            "confidence": 0.9935,
+            "box": [
+                547,
+                438,
+                618,
+                477
+            ]
+        },
+        {
+            "text": "M/C-25 21:56",
+            "confidence": 0.9963,
+            "box": [
+                762,
+                447,
+                987,
+                481
+            ]
+        },
+        {
+            "text": "unaress & Lc No, readthe las two chrcters of",
+            "confidence": 0.6775,
+            "box": [
+                240,
+                468,
+                623,
+                511
+            ]
+        },
+        {
+            "text": "120510000",
+            "confidence": 0.9865,
+            "box": [
+                339,
+                561,
+                447,
+                577
+            ]
+        }
+    ]
+}

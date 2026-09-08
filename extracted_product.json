@@ -1,0 +1,105 @@
+{
+    "status": "EXTRACTED_WITH_WARNINGS",
+    "fields": {
+        "product_name": {
+            "value": "EST BENGAL (A WADIA Enterprise)",
+            "confidence": 0.983,
+            "box": [
+                193,
+                436,
+                457,
+                475
+            ]
+        },
+        "mrp": {
+            "value": 10.0,
+            "confidence": 1.0,
+            "box": [
+                764,
+                206,
+                899,
+                257
+            ]
+        },
+        "net_quantity": {
+            "value": "39 g",
+            "confidence": 0.8991,
+            "box": [
+                944,
+                75,
+                1012,
+                112
+            ]
+        },
+        "unit_sale_price": {
+            "value": "Rs. 0.26 per g",
+            "confidence": 0.9575,
+            "box": [
+                760,
+                252,
+                1095,
+                317
+            ]
+        },
+        "packed_date": {
+            "value": "12/10/23",
+            "confidence": 0.9998,
+            "box": [
+                767,
+                305,
+                969,
+                355
+            ]
+        },
+        "use_by_date": {
+            "value": "11/03/24",
+            "confidence": 0.9628,
+            "box": [
+                767,
+                351,
+                970,
+                401
+            ]
+        },
+        "lot_number": {
+            "value": "M/C-25 21:56",
+            "confidence": 0.9935,
+            "box": [
+                762,
+                447,
+                987,
+                481
+            ]
+        },
+        "manufacturer": null,
+        "packer": null,
+        "importer": null,
+        "responsible_entity": null,
+        "marketed_by": {
+            "value": "BRITANNIA INDUSTRIES LTD",
+            "confidence": 0.9919,
+            "box": [
+                179,
+                372,
+                506,
+                413
+            ]
+        },
+        "country_of_origin": null,
+        "customer_care": null,
+        "imported": {
+            "value": false,
+            "confidence": 1.0,
+            "box": null
+        }
+    },
+    "warnings": [
+        "manufacturer was not detected.",
+        "packer was not detected.",
+        "importer was not detected.",
+        "responsible_entity was not detected.",
+        "country_of_origin was not detected.",
+        "customer_care was not detected."
+    ],
+    "ocr_item_count": 31
+}

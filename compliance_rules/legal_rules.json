@@ -1,0 +1,129 @@
+{
+    "database_name": "Legal Metrology Packaged Commodities Rules",
+    "version": "2011",
+    "last_updated": "2026",
+
+    "rules": [
+
+        {
+            "rule_id": "LM-PC-001",
+            "rule_number": "6",
+            "field": "product_name",
+            "name": "Common or generic name",
+            "requirement": "The package must declare the common or generic name of the commodity.",
+            "check_type": "required_field",
+            "applicability": "retail_package",
+            "status_if_missing": "NEEDS REVIEW",
+            "source": "Legal Metrology (Packaged Commodities) Rules, 2011"
+        },
+
+        {
+            "rule_id": "LM-PC-002",
+            "rule_number": "6",
+            "field": "net_quantity",
+            "name": "Net quantity",
+            "requirement": "The package must declare the net quantity of the commodity.",
+            "check_type": "quantity",
+            "applicability": "retail_package",
+            "status_if_missing": "NEEDS REVIEW",
+            "source": "Legal Metrology (Packaged Commodities) Rules, 2011"
+        },
+
+        {
+            "rule_id": "LM-PC-003",
+            "rule_number": "6",
+            "field": "mrp",
+            "name": "Retail sale price",
+            "requirement": "The package must declare the retail sale price in the required MRP form.",
+            "check_type": "mrp",
+            "applicability": "retail_package",
+            "status_if_missing": "NEEDS REVIEW",
+            "source": "Legal Metrology (Packaged Commodities) Rules, 2011"
+        },
+
+        {
+            "rule_id": "LM-PC-004",
+            "rule_number": "10",
+            "field": "responsible_entity",
+            "name": "Manufacturer, packer or importer",
+            "requirement": "The applicable manufacturer, packer or importer information must be declared.",
+            "check_type": "responsible_entity",
+            "applicability": "retail_package",
+            "status_if_missing": "NEEDS REVIEW",
+            "source": "Legal Metrology (Packaged Commodities) Rules, 2011"
+        },
+
+        {
+            "rule_id": "LM-PC-005",
+            "rule_number": "6",
+            "field": "country_of_origin",
+            "name": "Country of origin",
+            "requirement": "Country of origin must be declared where the imported-product requirement applies.",
+            "check_type": "country_of_origin",
+            "applicability": "imported_only",
+            "status_if_missing": "NEEDS REVIEW",
+            "source": "Legal Metrology (Packaged Commodities) Rules, 2011"
+        },
+
+        {
+            "rule_id": "LM-PC-006",
+            "rule_number": "6",
+            "field": "packed_date",
+            "name": "Manufacture or packing information",
+            "requirement": "The required manufacture/packing information must be declared.",
+            "check_type": "date",
+            "applicability": "retail_package",
+            "status_if_missing": "NEEDS REVIEW",
+            "source": "Legal Metrology (Packaged Commodities) Rules, 2011"
+        },
+
+        {
+            "rule_id": "LM-PC-007",
+            "rule_number": "6",
+            "field": "use_by_date",
+            "name": "Best before / Use by",
+            "requirement": "Best-before/use-by information must be declared where applicable.",
+            "check_type": "date",
+            "applicability": "category_dependent",
+            "status_if_missing": "NEEDS REVIEW",
+            "source": "Legal Metrology (Packaged Commodities) Rules, 2011"
+        },
+
+        {
+            "rule_id": "LM-PC-008",
+            "rule_number": "6",
+            "field": "customer_care",
+            "name": "Consumer care details",
+            "requirement": "Applicable consumer-care information must be declared.",
+            "check_type": "customer_care",
+            "applicability": "retail_package",
+            "status_if_missing": "NEEDS REVIEW",
+            "source": "Legal Metrology (Packaged Commodities) Rules, 2011"
+        },
+
+        {
+            "rule_id": "LM-PC-009",
+            "rule_number": "14",
+            "field": "dimensions",
+            "name": "Dimensions",
+            "requirement": "Required dimensions must be declared for commodities to which the dimension provisions apply.",
+            "check_type": "dimensions",
+            "applicability": "category_dependent",
+            "status_if_missing": "NEEDS REVIEW",
+            "source": "Legal Metrology (Packaged Commodities) Rules, 2011"
+        },
+
+        {
+            "rule_id": "LM-PC-010",
+            "rule_number": "6(11)",
+            "field": "unit_sale_price",
+            "name": "Unit sale price",
+            "requirement": "Unit sale price must be declared in the applicable unit and format where required.",
+            "check_type": "unit_sale_price",
+            "applicability": "category_dependent",
+            "status_if_missing": "NEEDS REVIEW",
+            "source": "Legal Metrology (Packaged Commodities) Rules, 2011"
+        }
+
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "generated_at": "2026-09-09T00:31:32.074216",
+    "rule_database": {
+        "database_name": "Legal Metrology Packaged Commodities Rules",
+        "version": "2011",
+        "last_updated": "2026"
+    },
+    "overall_status": "NEEDS REVIEW",
+    "summary": {
+        "total_checks": 12,
+        "passed": 8,
+        "failed": 0,
+        "needs_review": 2,
+        "not_applicable": 2
+    },
+    "results": [
+        {
+            "rule_id": "LM-PC-001",
+            "rule_number": "6",
+            "field": "product_name",
+            "name": "Common or generic name",
+            "status": "PASS",
+            "value": "EST BENGAL (A WADIA Enterprise)",
+            "confidence": 0.983,
+            "reason": "Common or generic name was detected.",
+            "box": [
+                193,
+                436,
+                457,
+                475
+            ],
+            "source": "Legal Metrology (Packaged Commodities) Rules, 2011"
+        },
+        {
+            "rule_id": "LM-PC-002",
+            "rule_number": "6",
+            "field": "net_quantity",
+            "name": "Net quantity",
+            "status": "PASS",
+            "value": "39 g",
+            "confidence": 0.8991,
+            "reason": "Net quantity 39 g was detected. The declared quantity has a valid quantity/unit format.",
+            "box": [
+                944,
+                75,
+                1012,
+                112
+            ],
+            "source": "Legal Metrology (Packaged Commodities) Rules, 2011"
+        },
+        {
+            "rule_id": "LM-PC-003",
+            "rule_number": "6",
+            "field": "mrp",
+            "name": "Retail sale price",
+            "status": "PASS",
+            "value": 10.0,
+            "confidence": 1.0,
+            "reason": "MRP of ₹10.00 was detected and passed the configured MRP validation.",
+            "box": [
+                764,
+                206,
+                899,
+                257
+            ],
+            "source": "Legal Metrology (Packaged Commodities) Rules, 2011"
+        },
+        {
+            "rule_id": "LM-PC-004",
+            "rule_number": "10",
+            "field": "responsible_entity",
+            "name": "Manufacturer, packer or importer",
+            "status": "NEEDS REVIEW",
+            "value": null,
+            "confidence": 0.0,
+            "reason": "Manufacturer, packer, or importer information was not detected. Manual verification is required.",
+            "box": null,
+            "source": "Legal Metrology (Packaged Commodities) Rules, 2011"
+        },
+        {
+            "rule_id": "LM-PC-006",
+            "rule_number": "6",
+            "field": "packed_date",
+            "name": "Manufacture or packing information",
+            "status": "PASS",
+            "value": "12/10/23",
+            "confidence": 0.9998,
+            "reason": "Manufacture or packing information was detected and has sufficient extraction confidence.",
+            "box": [
+                767,
+                305,
+                969,
+                355
+            ],
+            "source": "Legal Metrology (Packaged Commodities) Rules, 2011"
+        },
+        {
+            "rule_id": "LM-PC-007",
+            "rule_number": "6",
+            "field": "use_by_date",
+            "name": "Best before / Use by",
+            "status": "PASS",
+            "value": "11/03/24",
+            "confidence": 0.9628,
+            "reason": "Best before / Use by was detected and has sufficient extraction confidence.",
+            "box": [
+                767,
+                351,
+                970,
+                401
+            ],
+            "source": "Legal Metrology (Packaged Commodities) Rules, 2011"
+        },
+        {
+            "rule_id": "LM-PC-005",
+            "rule_number": "6",
+            "field": "country_of_origin",
+            "name": "Country of origin",
+            "status": "NOT APPLICABLE",
+            "value": null,
+            "confidence": 0.0,
+            "reason": "Country-of-origin checking was not triggered because the product was not identified as imported.",
+            "box": null,
+            "source": "Legal Metrology (Packaged Commodities) Rules, 2011"
+        },
+        {
+            "rule_id": "LM-PC-008",
+            "rule_number": "6",
+            "field": "customer_care",
+            "name": "Consumer care details",
+            "status": "NEEDS REVIEW",
+            "value": null,
+            "confidence": 0.0,
+            "reason": "Customer care information was not detected. Manual package verification is required.",
+            "box": null,
+            "source": "Legal Metrology (Packaged Commodities) Rules, 2011"
+        },
+        {
+            "rule_id": "LM-PC-009",
+            "rule_number": "14",
+            "field": "dimensions",
+            "name": "Dimensions",
+            "status": "NOT APPLICABLE",
+            "value": null,
+            "confidence": 0.0,
+            "reason": "Dimension checking is not enabled for this product.",
+            "box": null,
+            "source": "Legal Metrology (Packaged Commodities) Rules, 2011"
+        },
+        {
+            "rule_id": "LM-PC-010",
+            "rule_number": "6(11)",
+            "field": "unit_sale_price",
+            "name": "Unit sale price",
+            "status": "PASS",
+            "value": "Rs. 0.26 per g",
+            "confidence": 0.9575,
+            "reason": "Unit sale price Rs. 0.26 per g was detected. The declared unit is appropriate for the declared net quantity of 39 g.",
+            "box": [
+                760,
+                252,
+                1095,
+                317
+            ],
+            "source": "Legal Metrology (Packaged Commodities) Rules, 2011"
+        },
+        {
+            "rule_id": "N/A",
+            "rule_number": "N/A",
+            "field": "marketed_by",
+            "name": "Marketed by",
+            "status": "PASS",
+            "value": "BRITANNIA INDUSTRIES LTD",
+            "confidence": 0.9919,
+            "reason": "Marketed-by information was detected.",
+            "box": [
+                179,
+                372,
+                506,
+                413
+            ],
+            "source": "Extraction result"
+        },
+        {
+            "rule_id": "N/A",
+            "rule_number": "N/A",
+            "field": "lot_number",
+            "name": "Lot / Batch number",
+            "status": "PASS",
+            "value": "M/C-25 21:56",
+            "confidence": 0.9935,
+            "reason": "Lot/batch information was detected.",
+            "box": [
+                762,
+                447,
+                987,
+                481
+            ],
+            "source": "Extraction result"
+        }
+    ]
+}
